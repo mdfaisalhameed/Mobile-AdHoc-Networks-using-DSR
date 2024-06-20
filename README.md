@@ -64,18 +64,6 @@ Detailed packet trace files provide insights into packet transmissions, receptio
 
 The project successfully visualized the DSR protocol's route discovery and maintenance processes, demonstrating its effectiveness in dynamic MANET environments.
 
-## References
-
-1. NetSim Documentation
-2. Research papers on MANETs and DSR protocol
-
-## Project Structure
-
-- `README.md`: This file.
-- `CN_Report.pdf`: Detailed project report.
-- `src/`: Source files for the project (if any).
-- `results/`: Simulation results and analysis.
-
 ## How to Run
 
 1. Clone the repository:
